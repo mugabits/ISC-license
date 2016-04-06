@@ -1,0 +1,21 @@
+{
+  "name"      : "Hello Foo", 
+  "website"   : [ "http://fooworld.com", "http://myfoocorner.com"],
+  "email"     : "foo@foo.foo", 
+  "username"  : "github-username",
+  "image"     : "Foo.png",
+  "social"    : 
+    {
+      "fb"  : "fb.com/fooShares",
+      "twtr": "twtr.com/fooTweets",
+      "gh"  : "gh.com/fooCodes",
+      "yt"  : "yt.com/fooChannel",
+      "li"  : "li.com/fooWorks"
+    }
+  "projects"  : [ 
+    { "repoTitle1"  :   "gitfoo.com/repo1" },  
+    { "repoTitle2"  :   "gitfoo.com/repo2" },  
+    { "repoTitle3"  :   "gitfoo.com/repo3" },  
+    { "repoTitle4"  :   "gitfoo.com/repo4" },  
+  ]
+}
