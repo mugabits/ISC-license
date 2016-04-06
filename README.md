@@ -10,9 +10,15 @@ A repository where anyone can use to create a static webpage containing the most
 The ISC copyright is functionally equivalent to a two-term BSD copyright with language removed that is made unnecessary by the Berne convention. This is the preferred license for new code incorporated into OpenBSD.
 
 ## Static site
-
 You can simply attach a link to the generated static website for all your open source projects/initiatives.
 It will the one place where you store your open source license. 
+
+### how to install
+  [TO-DO]
+### generate your own
+  [TO-DO]
+### publish your license
+  [TO-DO]
 
 ## State
 - This project is still under Alpha development.- 
